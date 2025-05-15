@@ -24,7 +24,7 @@ The system simulates an automatic water faucet that turns on when a "hand" is de
 
 1. Open the `.vi` file in **LabVIEW 2020** or later.
 2. Set the desired timeout value.
-3. Use the **"Hand Detected"** toggle button on the front panel to simulate sensor input.
+3. Use the **"Hand Inserted"** toggle button on the front panel to simulate sensor input.
 4. Observe how the faucet turns on/off based on your input and the timer.
 
 ##  Included Files
